@@ -1,3 +1,3 @@
 My first readme
-the of end this project
+the end of this project
 And the beginging of of my journy 
